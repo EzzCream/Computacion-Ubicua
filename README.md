@@ -9,7 +9,7 @@ Esta aplicacion fue creada con React y express ⚛️
 Empecemos haciendo lo necesario para correr el proyecto 😁
 
 ```bash
-git clone https://github.com/OscarAntonioR/MichiStore.git
+git clone https://github.com/EzzCream/Computacion-Ubicua.git
 cd computacion-ubicua
 npm i - Para instalar los nodemodules tanto en el back como en el front
 npm run dev - Para correr la app tanto en el back como en el front
