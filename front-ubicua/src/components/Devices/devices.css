@@ -1,0 +1,29 @@
+.card {
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.cont {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 30px;
+}
+.in {
+	width: 200px;
+	height: 50px;
+	border-radius: 10px;
+	border: 1px solid white;
+	background-color: transparent;
+	text-align: center;
+	margin: 10px;
+}
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	flex-direction: column;
+}
